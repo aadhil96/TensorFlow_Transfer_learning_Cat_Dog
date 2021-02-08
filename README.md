@@ -1,4 +1,4 @@
-# TensorFlow Transfer_learning for Cat and Dog classification
+# TensorFlow Transfer_learning for Cat and Dog Classification
 
 ### Transfer Learning using top 4 pre-trained models for Image Classification
 
